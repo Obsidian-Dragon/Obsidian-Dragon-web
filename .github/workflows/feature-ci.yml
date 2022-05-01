@@ -26,4 +26,4 @@ jobs:
       - name: test
         run: npm run test
 
-        # updated npm so it should work now?
+        # trying to resolve exit code 126
